@@ -16,7 +16,7 @@ Dans ce cas, next n'est pas nécessaire car il n'y a pas de middleware suppléme
 
 /*
 Exercice
-développez une application Express avec 3 route qui renvois un fichier ejs   
+développez une application Express avec 3 route qui renvois chacune un fichier ejs   
 
 Ajoutez la gestion de la page 404 .
 
